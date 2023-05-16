@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url('kep.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h2{
+    text-decoration: underline
+    
+}
+figcaption{
+    color: brown;
+    font-weight: bold
+
+    
+}
+table, th, td, tr{
+    border: 1px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    color: brown;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+.pop{
+    size: 20px;
+    text-decoration: unset;
+    color: brown;
+    text-align: center;
+    background-color: bisque;
+
+
+}
+.image-container {
+    text-align: center;
+  }
+  
+  .image-container div {
+    width: 30%;
+    margin: 0 1.5%;
+  }

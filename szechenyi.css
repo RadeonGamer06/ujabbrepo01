@@ -1,0 +1,61 @@
+.neve {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 42px;
+  background-color: gainsboro;
+  padding: 30px;
+}
+#teljes_nev {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 26px;
+  background-color: gainsboro;
+}
+#bemutatas {
+  text-align: center;
+  font-size: 26px;
+  font-style: oblique;
+  background-color: gainsboro;
+}
+.buttons {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 28px;
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px;
+  margin: 50px;
+}
+.buttons:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  background-color: grey;
+  color: white;
+}
+.ikon {
+  width: 30px;
+  height: 30px;
+  margin-top: 3px;
+}
+#szechenyi_kep {
+  width: 35%;
+  height: 35%;
+  margin-left: 150px;
+}
+#szechenyi_kep2 {
+  margin-left: 300px;
+  margin-bottom: 150px;
+  width: 15%;
+  height: 15%;
+}
+body {
+  background-image: url('kep.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
